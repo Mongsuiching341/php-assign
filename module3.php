@@ -18,6 +18,8 @@ if (checkEven($n)) {
     echo 'odd number';
 }
 
+
+echo PHP_EOL;
 // =========================
 //1+2+3...…….100  Write a loop to calculate the summation of the series
 
